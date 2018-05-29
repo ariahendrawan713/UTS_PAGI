@@ -1,0 +1,21 @@
+print "Assalamualaikum wr. wb." #Menampilkan salam
+print "Nama : Arsi Anggraeni Hapsari"
+print "NIM : G.211.16.0029"
+print "Tugas UTS_PAGI/python1.py"
+print "==========================================="
+var = 10
+if ( var == 100 ) : print "Value of expression is 100"
+else : print "Values of expression is not 100"
+print "Good bye!"
+
+a = 33
+b = 200
+if (b > a) :
+    print("b is greater than a")
+else :
+    print "Error"
+
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"]
+for x in mahasiswa:
+  print(x)
+print "==========================================="
