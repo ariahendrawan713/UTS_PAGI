@@ -1,0 +1,13 @@
+var = 10
+if ( var == 100) : print "value of expression is 100"
+else : print "value ofexpression is not 100"
+print "Good Bye"
+
+a = 33
+b = 200
+if (b > a) print "b is greater than a"
+else : print "you will get an error"
+
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"]
+fox x in mahasiswa:
+  print(x) 
