@@ -1,0 +1,23 @@
+print "Assalamualaikum warohmatullahi wabarakatuh" #Menampilkan salam pembuka
+print "Nama : Toha Azis" #Menampilkan Nama
+print "NIM  : G.211.16.0053" #Menampilkan NIM
+print "Tugas UTS_PAGI/python1.py" #Menampilkan Nama Tugas 
+print "==========================================" #Menampilkan Border Menggunakan =
+var = 10 #Jumlah variabel
+if ( var == 100 ) : print "Value of expression is 100" #Jika variabel 100 maka akan tampil tulisan "Value of expression is 100"
+else : print "Value of expression is not 100" #Jika salah maka akan menampilkan "Value of expression is not 100"
+print "Good bye!" #Menampilkan "Good bye"
+
+a = 33 #Variabel a = 33
+b = 200 #Variabel b = 200 
+if (b > a) : #Jika b lebih besar a maka
+    print "b is greater than a" #Menmpilkan "b is greater than a"
+else : #Jika salah
+    print "Error" #Menampilkan Eror
+
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"] #mahasiswa berisi ["jangan", "lupa", "ucapkan", "salam"] 
+for x in mahasiswa: #x = mahasiswa
+  print(x) #menampilkan isi x
+print "==========================================" #Menampilkan Border Menggunakan =  
+print "Terima Kasih" #MenampilkanTerimakasih 
+print "Wasalamualaikum warohmatullahi wabarakatuh" #Menampilkan salam penutup
