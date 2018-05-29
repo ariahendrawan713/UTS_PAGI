@@ -1,0 +1,24 @@
+print "Selamat Siang Pak.."
+print "------------------------"
+print "| Nama : Joko Waluyo   |"
+print "| NIM  : G.211.16.0026 |"
+print "------------------------"
+
+var = 10
+if ( var == 100 ) :
+    print "Value of expression is 100"
+else :
+    print "Value of expression is not 100" #jika else maka tidak usah menggunakan var
+print "Good bye!"
+
+a = 33
+b = 200
+if (b > a): #jika if var harus dikasih symbol()
+    print("b is greater than a")
+
+else : 
+    print "Error" #deklarasi untuk else
+
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"]
+for x in mahasiswa:
+  print(x)
