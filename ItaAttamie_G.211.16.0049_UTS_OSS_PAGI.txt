@@ -1,0 +1,34 @@
+print "Assalamu'alaikum warohmatullahi wabarokatuh" #menampilkan salam pembuka
+print "Nama     : Ita Attamie" #menampikan nama
+print "NIM      : G.211.16.0049" #menampilkan nim
+print "\n" #jeda atau enter
+print "TUGAS UTS PYTHON1.py" #menampilkan tulisan tugas uts python1.py
+
+print "***********************************************************************"
+print "\n" #jeda atau enter
+var = 10 #penjabaran variabel var yang berisi 10
+if ( var == 100 ) : print "Value of expression is 100" #proses, jika var = 100, maka akan ditampilkan 'Value of expression is 100
+else : print "Value of expression is not 100" #jika var bukan 100, makan akan ditampilkan 'Value if expression is not 100
+print "Good bye!" #menampilkan tulisan 'Good bye!'
+print "\n" #jeda atau enter
+
+print "***********************************************************************"
+
+print "\n" #jeda atau enter
+a = 33 #penjabaran variabel a yang berisi 33
+b = 200 #variabel b berisi 200
+if (b > a) : print "b is greater than a" #jika variabel b lebih besar dari variabel a, maka akan mencetak 'b is greater than a'
+else : print "you will get an error" #jika variabel b tidak lebih besar dari variabel a, maka akan dicetak 'you will get an error'
+print "\n" #jeda atau enter
+
+print "***********************************************************************"
+
+print "\n" #jeda atau enter
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"] #penjabaran variabel mahasiswa yang berisi 'jangan', 'lupa', 'ucapkan', dan 'salam'
+for x in mahasiswa : print(x) #perulangan untuk x dalam mahasiswa, variabel mahasiswa dimasukkan ke dalam x, yang kemudian akan dipanggil x yang mencetak isi dari variabel mahasiswa
+print "\n" #jeda atau enter
+
+print "***********************************************************************"
+print "\n" #jeda atau enter
+print "Terima kasih, pak" #mencetak ucapan terima kasih
+print "Wassalamu'alaikum warohmatulahi wabarokatuh"#mencetak salam penutup
