@@ -1,0 +1,27 @@
+print "|===========================================|"
+print "| Assalamualaikum Warohmatulohi Wabarokatuh |"
+print "|Nama : Muhamad Sigit Pranata               |"
+print "|NIM  : G.211.16.0023                       |"
+print "|   Tugas UTS Python Operating Source System|"
+print "|            Repairing Source Code          |"
+print "|===========================================|"
+
+var = 10
+if (var == 100) : print "Value of expression is 100"
+else : print "Value of expression is not 100"
+print "Good bye!"
+
+a = 33
+b = 200
+if b>a :
+    print ("b is grater than a")
+else:
+    print "error"
+
+mahasiswa = ["jangan", "lupa", "ucapkan", "salam"]
+for x in mahasiswa :
+    print (x)
+
+print "|============================================|"
+print "| Wassalamualaikum Warohmatulohi Wabarokatuh |"
+print "|============================================|"
